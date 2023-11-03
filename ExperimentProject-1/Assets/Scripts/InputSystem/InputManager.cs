@@ -76,8 +76,8 @@ public class InputManager : MonoBehaviour
         
         Debug.Log(mouseX);
         Debug.Log(mouseY);
-        Debug.Log(moveX);
-        Debug.Log(moveY);
+        // Debug.Log(moveX);
+        // Debug.Log(moveY);
     }
 
     private void Init()
